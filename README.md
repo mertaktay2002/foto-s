@@ -78,51 +78,6 @@
     {
         "id": 20,
         "image":[spiderman_no_way_home](https://github.com/user-attachments/assets/596bf6dd-641e-47ab-86b0-1cd5af76df90)
-    },
-    {
-        "id": 21,
-        "image":[frozen](https://github.com/user-attachments/assets/45a53683-cc34-460f-b6d6-84be8a450fb8)
-    },
-    {
-        "id": 22,
-        "image":[finding_nemo](https://github.com/user-attachments/assets/9abd5727-c1bb-4ea6-9e17-a2f2b40800ba)
-
-    },
-    {
-        "id": 23,
-        "image":[up](https://github.com/user-attachments/assets/0326b77c-f187-4496-8c73-895d6d5c5854)
-    },
-    {
-        "id": 24,
-        "image":[coco](https://github.com/user-attachments/assets/b0102ba4-1f39-4a26-826f-9854d4936371)
-    },
-    {
-        "id": 25,
-        "image":[jurassic_park](https://github.com/user-attachments/assets/7aa14754-72e1-467c-878a-727283562e38)
-    },
-    {
-        "id": 26,
-        "image":[avatar](https://github.com/user-attachments/assets/fc3f96f6-2f77-48cf-99b5-5a00917ad442)
-    },
-    {
-        "id": 27,
-        "image":[incredibles](https://github.com/user-attachments/assets/4182001e-549f-4afe-a068-076755736558)
-    },
-    {
-        "id": 28,
-        "image":[black_panther](https://github.com/user-attachments/assets/9b3e829d-a53f-4b25-bbc5-04f478978b7e)
-    },
-    {
-        "id": 29,
-        "image":[iron_man](https://github.com/user-attachments/assets/a2c6eb72-5554-42df-9298-97424e831f3a)
-    },
-    {
-        "id": 30,
-        "image":[winter_soldier](https://github.com/user-attachments/assets/94c9b612-af78-4fa7-b1ac-344890e76751)
-    },
-
-
-
 ]
 
 
