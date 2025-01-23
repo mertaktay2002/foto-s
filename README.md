@@ -78,6 +78,7 @@
     {
         "id": 20,
         "image":[spiderman_no_way_home](https://github.com/user-attachments/assets/596bf6dd-641e-47ab-86b0-1cd5af76df90)
+    }
 ]
 
 
