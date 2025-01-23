@@ -1,4 +1,4 @@
-movie_data = [
+[
     {"id": 1, "image": "https://github.com/user-attachments/assets/71a63a6e-ed33-47b9-a23c-3fe25cc401ed"},
     {"id": 2, "image": "https://github.com/user-attachments/assets/b7f53cd6-0fb0-4e2a-8063-72cff09c32e7"},
     {"id": 3, "image": "https://github.com/user-attachments/assets/42ec05e3-190f-47de-ae25-67c1970684d1"},
